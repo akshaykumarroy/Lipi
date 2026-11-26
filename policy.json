@@ -14,14 +14,14 @@
     "blockedProviders": []
   },
   "limits": {
-    "maxChatsPerDay": 0,
-    "maxResearchPerDay": 0,
-    "maxWebSearchesPerDay": 0,
-    "maxOutputTokens": 0
+    "maxChatsPerDay": 25,
+    "maxResearchPerDay": 3,
+    "maxWebSearchesPerDay": 40,
+    "maxOutputTokens": 1600
   },
   "announcement": {
     "text": "Cloud AI providers are temporarily offline. Lipi Local models remain available.",
     "level": "info"
   },
-  "updatedAt": "2026-11-26T13:05:14.185Z"
+  "updatedAt": "2026-11-26T13:06:04.966Z"
 }
