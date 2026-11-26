@@ -1,0 +1,27 @@
+{
+  "schema": "lipi-policy-v1",
+  "emergencyStop": false,
+  "minVersion": "1.0.0",
+  "blockedVersions": [],
+  "title": "Lipi is temporarily paused",
+  "message": "We paused this version due to an urgent issue. Please check for updates or try again soon.",
+  "actionUrl": "",
+  "features": {
+    "webSearch": true,
+    "research": true,
+    "localModels": true,
+    "cloudProviders": false,
+    "blockedProviders": []
+  },
+  "limits": {
+    "maxChatsPerDay": 0,
+    "maxResearchPerDay": 0,
+    "maxWebSearchesPerDay": 0,
+    "maxOutputTokens": 0
+  },
+  "announcement": {
+    "text": "Cloud AI providers are temporarily offline. Lipi Local models remain available.",
+    "level": "info"
+  },
+  "updatedAt": "2026-11-26T13:05:14.185Z"
+}
