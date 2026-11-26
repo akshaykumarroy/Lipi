@@ -19,9 +19,6 @@
     "maxWebSearchesPerDay": 0,
     "maxOutputTokens": 0
   },
-  "announcement": {
-    "text": "Cloud AI providers are temporarily offline. Lipi Local models remain available.",
-    "level": "info"
-  },
-  "updatedAt": "2026-11-26T13:53:13.065Z"
+  "announcement": null,
+  "updatedAt": "2026-11-26T15:27:17.853Z"
 }
