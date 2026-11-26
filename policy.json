@@ -1,6 +1,6 @@
 {
   "schema": "lipi-policy-v1",
-  "emergencyStop": true,
+  "emergencyStop": false,
   "minVersion": "1.0.0",
   "blockedVersions": [],
   "title": "Scheduled maintenance",
@@ -23,5 +23,5 @@
     "text": "Cloud AI providers are temporarily offline. Lipi Local models remain available.",
     "level": "info"
   },
-  "updatedAt": "2026-11-26T13:44:47.305Z"
+  "updatedAt": "2026-11-26T13:46:13.112Z"
 }
