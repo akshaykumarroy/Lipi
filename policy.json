@@ -4,7 +4,7 @@
   "minVersion": "1.0.0",
   "blockedVersions": [],
   "title": "Scheduled maintenance",
-  "message": "Lipi is briefly paused while we roll out an important update. Please try again shortly.",
+  "message": "Lipi is briefly paused while we roll out an important update. Please try again shortly. by Akshay Kumar Roy",
   "actionUrl": "",
   "features": {
     "webSearch": true,
@@ -23,5 +23,5 @@
     "text": "Cloud AI providers are temporarily offline. Lipi Local models remain available.",
     "level": "info"
   },
-  "updatedAt": "2026-11-26T13:19:40.195Z"
+  "updatedAt": "2026-11-26T13:44:47.305Z"
 }
